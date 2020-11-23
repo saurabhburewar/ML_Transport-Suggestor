@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Python 3.6 and above
+Python 3.6 and above  
 Modules - sklearn, matplotlib, networkx
 
 ## Application
