@@ -1,5 +1,7 @@
 # Transport Suggester
 
+An CLI application that suggests a mode of transport and route in terms of cities passed by taking inputs on source, destination and other preferences like cost of trip, environment-friendly. It uses a simple decision tree classifier to make the decision on the mode of transport.
+
 ## Requirements
 
 Python 3.6 and above  
